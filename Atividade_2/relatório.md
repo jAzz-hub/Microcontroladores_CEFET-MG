@@ -12,6 +12,7 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 - [Link do experimento](#https://wokwi.com/projects/429028773984946177).
 
 - Gifs do experimento: <br> <br>
+
 ![till](Documentation/gifs/1.gif) alt ="Funcionamento de circuito com Carry e Switches"><\img>
 
 
