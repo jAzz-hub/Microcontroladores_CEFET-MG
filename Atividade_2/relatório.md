@@ -1,6 +1,6 @@
 
 # NOTA AO LEITOR
-Para tornar a documentação desta atividade mais acessível e intuitiva, utilizamos gifs ao invés de imagens. Consulte o [link](#https://github.com/jAzz-hub/Microcontroladores_CEFET-MG/blob/main/Atividade_2/relat%C3%B3rio.md) aqui em função de visualiza-los.
+Para tornar a documentação desta atividade mais acessível e intuitiva, utilizamos gifs ao invés de imagens. Consulte o [link](#https://github.com/jAzz-hub/Microcontroladores_CEFET-MG/tree/main/Atividade_2/Documentation/gifs) aqui em função de visualiza-los.
 
 ## Questão 1
 **Circuito de Carry utilizando Switches**
