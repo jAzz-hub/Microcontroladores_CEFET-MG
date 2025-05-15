@@ -13,7 +13,8 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 
 - [Gifs do experimento](#Documentation/gifs/1.gif): <br> <br>
 
-![till](Documentation/gifs/1.gif)<\img>
+![till](Documentation/gifs/1.gif)
+
 
 
 ## Questão 2 parte 1
@@ -29,7 +30,8 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 
 - [Gifs do experimento](#Documentation/gifs/2.1.gif) <br> <br>
 
-![till](Documentation/gifs/2.1.gif)<\img>
+![till](Documentation/gifs/2.1.gif)
+
 
 
 ## Questão 2 parte 2
@@ -43,7 +45,8 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 
 [Gifs do experimento](#Documentation/gifs/2.2.gif)
 
-![till](Documentation/gifs/2.2.gif)<\img>
+![till](Documentation/gifs/2.2.gif)
+
 
 
 ## Questão 3
@@ -57,7 +60,8 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 
 [Gifs do experimento](#Documentation/gifs/3.gif)
 
-![till](Documentation/gifs/3.gif)<\img>
+![till](Documentation/gifs/3.gif)
+
 
 
 ## Questão 4
@@ -71,4 +75,5 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 
 [Gifs do experimento](#Documentation/gifs/4.gif) <br> <br>
 
-![till](Documentation/gifs/4.gif)<\img>
+![till](Documentation/gifs/4.gif)
+
