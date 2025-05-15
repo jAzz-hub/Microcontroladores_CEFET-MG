@@ -12,7 +12,7 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 - [Link do experimento](#https://wokwi.com/projects/429028773984946177).
 
 - Gifs do experimento: <br> <br>
-<img src="Documentation/gifs/1.gif" alt ="Funcionamento de circuito com Carry e Switches">
+![till](Documentation/gifs/1.gif) alt ="Funcionamento de circuito com Carry e Switches">
 
 
 ## Questão 2 parte 1
@@ -28,7 +28,7 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 
 - Gifs do experimento: <br> <br>
 
-<img src="Documentation/gifs/2.1.gif" alt ="Funcionamento de Hello World através de LED aceso na porta 13"><\img>
+![till](Documentation/gifs/2.1.gif) alt ="Funcionamento de Hello World através de LED aceso na porta 13"><\img>
 
 
 ## Questão 2 parte 2
@@ -41,7 +41,7 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 -[Link do experimento](#https://wokwi.com/projects/429710619276322817)
 
 - Gifs do experimento: <br> <br>
-<img src="Documentation/gifs/2.2.gif" alt="Funcionamento do circuito que intercala funcionamento de botões"><\img>
+![till](Documentation/gifs/2.2.gif) alt="Funcionamento do circuito que intercala funcionamento de botões"><\img>
 
 
 ## Questão 3
@@ -54,7 +54,7 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 -[Link do experimento](#https://wokwi.com/projects/430296235882333185)
 
 - Gifs do experimento: <br> <br>
-<img src="Documentation/gifs/3.gif" alt="Funcionamento do circuito que apresenta um 9 no display de 7 segmentos"><\img>
+![till](Documentation/gifs/3.gif) alt="Funcionamento do circuito que apresenta um 9 no display de 7 segmentos"><\img>
 
 
 ## Questão 4
@@ -67,4 +67,4 @@ Para tornar a documentação desta atividade mais acessível e intuitiva, utiliz
 - [Link do experimento](#https://wokwi.com/projects/430956752300134401)
 
 - Gifs do experimento: <br> <br>
-<img src="Documentation/gifs/4.gif" alt="interação de usuário com circuito de crescimento ou decrescimento numérico">
+![till](Documentation/gifs/4.gif) alt="interação de usuário com circuito de crescimento ou decrescimento numérico">
